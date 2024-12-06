@@ -1,3 +1,3 @@
 # Test	
 
-Den här filen ��ör uppdaterad
+Den här filen är härmed uppdaterad från jobbdatorn.
